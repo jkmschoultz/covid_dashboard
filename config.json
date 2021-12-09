@@ -1,0 +1,15 @@
+{
+    "Covid_data_filepath": "data/",
+    "Favicon": "static/favicon.ico",
+    "Headers": {
+        "Deaths": "cumDailyNsoDeathsByDeathDate",
+        "Hospital_cases": "hospitalCases",
+        "New_cases": "newCasesBySpecimenDate"
+    },
+    "Image": "logo.png",
+    "Location": "Exeter",
+    "Location_type": "ltla",
+    "Nation": "England",
+    "NEWS_API_KEY": "",
+    "Title": "Daily Update"
+}
