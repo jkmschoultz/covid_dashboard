@@ -27,7 +27,7 @@ A 'config.json' file is included to allow user customization of the program. The
     Title: the title displayed on the website.
 
 ## Runtime
-Once running, the server will create a 'sys.log' file in the main working directory which displays a log of all events that happen during runtime. The 'main' module makes use of functionality provided by the 'covid_data_handler', 'covid_news_handling' and 'time_conversions' modules to find and interpret covid data and news articles. The 'main' module itself is responsible for running the interactive web application, with the help of the 'flask' package. Scheduling updates to the data and news articles will, when executed, refresh the stored data structures with information gotten from new API requests. The program was written using Python version 3.9.7 and also makes use of the following python packages:
+Once running, the server will create a 'sys.log' file in the main working directory which displays a log of all events that happen during runtime. The 'main' module makes use of functionality provided by the 'covid_data_handler', 'covid_news_handling' and 'time_conversions' modules to find and interpret covid data and news articles. The 'main' module itself is responsible for running the interactive web application, with the help of the 'flask' package. Scheduling updates to the data and news articles will, when executed, refresh the stored data structures with information gotten from new API requests. The program was written using Python version 3.9.9 and also makes use of the following python packages:
     
     - flask
     - io
