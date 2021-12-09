@@ -57,7 +57,7 @@ The 'tests' directory includes testing modules for the functionality of the diff
 The 'templates' directory is where the index html page is stored, as required when using flask, and images/icons are stored in the 'static' directory.
 
 ## Links
-Github repository: https://github.com/jkmschoultz/ecm1400
+Github repository: https://github.com/jkmschoultz/covid_dashboard
 
 Covid data API link: https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk/
 
